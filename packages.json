@@ -1,0 +1,7 @@
+[
+  {
+      "package": "cmdstanr",
+      "url": "https://github.com/stan-dev/cmdstanr",
+      "branch": "release"
+  }
+]
