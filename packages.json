@@ -2,6 +2,18 @@
   {
       "package": "cmdstanr",
       "url": "https://github.com/stan-dev/cmdstanr",
-      "branch": "release"
+      "branch": "*release"
+  },
+  {
+      "package": "StanHeaders",
+      "url": "https://github.com/stan-dev/rstan",
+      "branch": "experimental",
+      "subdir": "StanHeaders"
+  },
+  {
+      "package": "rstan",
+      "url": "https://github.com/stan-dev/rstan",
+      "branch": "experimental",
+      "subdir": "rstan/rstan"
   }
 ]
