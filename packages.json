@@ -19,7 +19,7 @@
   {
       "package": "rstanarm",
       "url": "https://github.com/stan-dev/rstanarm",
-      "branch": "feature/survival"
+      "branch": "survival-rstantools"
   },
   {
       "package": "shinystan",
