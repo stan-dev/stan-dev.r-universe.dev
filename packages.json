@@ -46,7 +46,7 @@
       "url": "https://github.com/stan-dev/posterior"
   },
   {
-      "package": "posteriordb-r",
+      "package": "posteriordb",
       "url": "https://github.com/stan-dev/posteriordb-r"
   }
 ]
