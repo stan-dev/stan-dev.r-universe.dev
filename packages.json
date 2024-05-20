@@ -15,5 +15,10 @@
       "url": "https://github.com/stan-dev/rstan",
       "branch": "experimental",
       "subdir": "rstan/rstan"
+  },
+  {
+      "package": "rstanarm",
+      "url": "https://github.com/stan-dev/rstanarm",
+      "branch": "feature/survival"
   }
 ]
