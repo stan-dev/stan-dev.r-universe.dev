@@ -20,5 +20,33 @@
       "package": "rstanarm",
       "url": "https://github.com/stan-dev/rstanarm",
       "branch": "feature/survival"
+  },
+  {
+      "package": "shinystan",
+      "url": "https://github.com/stan-dev/shinystan"
+  },
+  {
+      "package": "projpred",
+      "url": "https://github.com/stan-dev/projpred"
+  },
+  {
+      "package": "loo",
+      "url": "https://github.com/stan-dev/loo"
+  },
+  {
+      "package": "bayesplot",
+      "url": "https://github.com/stan-dev/bayesplot"
+  },
+  {
+      "package": "rstantools",
+      "url": "https://github.com/stan-dev/rstantools"
+  },
+  {
+      "package": "posterior",
+      "url": "https://github.com/stan-dev/posterior"
+  },
+  {
+      "package": "posteriordb-r",
+      "url": "https://github.com/stan-dev/posteriordb-r"
   }
 ]
