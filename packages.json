@@ -7,13 +7,13 @@
   {
       "package": "StanHeaders",
       "url": "https://github.com/stan-dev/rstan",
-      "branch": "experimental",
+      "branch": "develop",
       "subdir": "StanHeaders"
   },
   {
       "package": "rstan",
       "url": "https://github.com/stan-dev/rstan",
-      "branch": "experimental",
+      "branch": "develop",
       "subdir": "rstan/rstan"
   },
   {
